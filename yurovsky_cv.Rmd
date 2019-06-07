@@ -1,0 +1,232 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Daniel Yurovsky
+
+jobtitle: "Assistant Professor, Department of Psychology"
+address: "Green 201 · University of Chicago · Chicago, IL 60642"
+fontawesome: yes
+email: yurovsky@uchicago.edu
+#github: dyurovsky
+phone: "773 834 3381"
+web: www.danyurovsky.com
+updated: FALSE
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Employment
+
+* University of Chicago
+
+    + Assistant Professor of Psychology  (2016-present)
+
+* Stanford University 
+
+    + Postdoctoral Fellow (2012-2016)
+
+
+# Education
+
+* Indiana University
+    + Ph.D. (2012), Department of Psychological and Brain Sciences
+    
+    + Advisors: Chen Yu and Linda Smith
+    
+    + Thesis title: "Mechanicsms of statistical word learning"
+
+
+* Carnegie Mellon University 
+
+    + B.S. (2007) with Honors, Cognitive Science 
+    
+    + B.S. (2007), Computer Science
+
+# Grants and Awards
+
+* R01 NICHD 094830, PLAY Project (consultant; PI: K. Adolph). 2018--2023. $18,000
+
+* UChicago SSD Curriculum Innovation Award (PI; Co-I S. Goldin-Meadow). 2018--2019. $13,200.
+
+* UChicago SSRC Faculty Seed Grant (PI; Co-I E. Lipnowski). 2018--2020. $30,000.
+
+* James S. McDonnell Foundation Scholar Award. 2017-2023. $600,000.
+
+* NIH National Research Service Award. 2013--2016. $148,518.
+
+* NSF East Asia and Pacific Summer Institutes Fellowsip. 2011.
+
+* NSF Graduate Research Fellowship. 2009--2012.
+
+* Joseph E. Steinmetz Summer Fellowship. 2008.
+
+* NIH Training Grant in Developmental Processes. 2007--2009.
+
+# Publications
+
+## Journal Articles
+
+1. The ManyBabies Consortium. (accepted). Quantifying sources of variability in infancy research using the infant-directed speech preference. *Advances in Methods and Practices in Psychological Science*.
+
+1. Braginsky, M., Yurovsky, D., Marchman, V. A., Frank, M. C. (in press). Consistency and variability in word learning across languages. *Open Mind*.
+
+1. Sanchez, A., Meylan, S. C., Braginsky, M., MacDonald, K., Yurovksy, D., & Frank, M. C. (in press). childes-db: a flexible and reproducible interface to the Child Language Data Exchange System. *Behavior Research Methods*.
+
+1. Yurovsky, D. (2018). A communicative approach to early word learning. *New Ideas in Psychology*, *50*, 73--79. 
+
+1. Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., Hamlin, J. K., Hannon, E. E., Kline, M., Levelt, C., Lew-Williams, C., Nazzi, T., Panneton, R., Rabagliati, H., Soderstrom, M., Sullivan, J., Waxman, S., & Yurovsky, D. (2017). A collaborative approach to infant research: Promoting reproducibility, best practices, and theory-building. *Infancy*, *22*, 421--435. 
+
+1. Frank, M. C., Braginsky, M., Yurovsky, D., Marchman, V. A. (2017). Wordbank: An open repository for developmental vocabulary data. *Journal of Child Language*, *44*, 677--694.
+
+1. MacDonald, K., Yurovsky, D., Frank, M. C. (2017). Social cues modulate the representations underlying cross-situational learning. *Cognitive Psychology*, *94*, 67--84.
+
+1. Yurovsky, D., Case, S., Frank, M. C. (2017). Preschoolers flexibly adapt to linguistic input in a noisy channel. *Psychological Science*, *28*, 132--140. 
+
+1. Yurovsky, D., Frank, M. C. (2017). Beyond naïve cue combination: Salience and social cues in early word learning. *Developmental Science*, *20*, e12349.
+
+1. Benitez, V. L., Yurovsky, D., & Smith, L. B. (2016). Competition between multiple words for a referent in cross-situational word learning. *Journal of Memory and Language*, *90*, 31--48.
+    
+1. Frank, M. C., Sugarman, E., Horowitz, A. C., Lewis, M. L., & Yurovsky, D. (2016). Using tablets to collect data from young children. *Journal of Cognition and Development*, *17*, 1--17.
+
+1. Yurovsky, D., & Frank, M. C. (2015). An integrative account of constraints on cross-situational word learning. *Cognition*, *145*, 53--62.
+
+1. Yurovsky, D., Fricker, D., C., Yu, C., &  Smith, L. B. (2014). The role of partial knowledge in statistical word learning. *Psychonomic Bulletin & Review*, *21*, 1--22.
+
+1. Yurovsky, D., Smith, L.B., & Yu, C. (2014). Statistical word learning at scale: The baby's view is better.
+*Developmental Science*, *16*, 959--966.
+
+1. Yurovsky, D., Yu, C., & Smith, L. B. (2013). Competitive processes in cross-situational word learning. *Cognitive Science*, *37*, 891--921.
+
+1. Yurovsky, D., Boyer, T., W., Smith, L.B., & Yu, C. (2013). Probabilistic cue combination: Less is More. *Developmental Science*, *16*, 149--158.
+
+## Conference Proceedings
+
+1. Denby, J., & Yurovsky, D. (in press). Parents' Linguistic Alignment Predicts Children’s Language Development. *Proceedings of the 41st Annual Conference of the Cognitive Science Society*.
+
+1. Leung, A., Tunkel, A., & Yurovsky, D. (in press). Parents Calibrate Speech to Their Children's Vocabulary Knowledge. *Proceedings of the 41st Annual Conference of the Cognitive Science Society*.
+
+1. Morris, B. C., & Yurovsky, D. (in press). Pressure to communicate across knowledge asymmetries leads to pedagogically supportive language input. *Proceedings of the 41st Annual Conference of the Cognitive Science Society*.
+
+1. Yurovsky, D., Meyers, M., Burke, N., & Goldin-Meadow, S. (2018). Children gesture when speech is slow to come. In T.T. Rogers, M. Rau, X.
+Zhu, & C. W. Kalish (Eds.), *Proceedings of the 40th Annual Conference of the Cognitive Science Society* (pp. 2765--2770). Austin, TX: Cognitive Science Society.
+
+1. Braginsky, M., Yurovsky, D., Marchman, V. A., & Frank, M. C. (2016). From uh-oh to tomorrow: Predicting age of acquisition for early words across languages. In Papafragou, A., Grodner, D., Mirman, D., Trueswell, J. C. (Eds.), *Proceedings of the 38th Annual Conference of the Cognitive Science Society* (pp. 1691--1696). Austin, TX: Cognitive Science Society.
+
+1. Yurovsky, D., Doyle, G., & Frank, M. C. (2016). Linguistic input is tuned to children's developmental level. In Papafragou, A., Grodner, D., Mirman, D., Trueswell, J. C. (Eds.), *Proceedings of the 38th Annual Meeting of the Cognitive Science Society* (pp. 2093--2098). Austin, TX: Cognitive Science Society.
+
+1. Doyle, G., Yurovsky, D., & Frank, M. C. (2016). A robust framework for estimating linguistic alignment in Twitter conversations. *Proceedings of the 25th International Conference on World Wide Web*, 637–-648.
+
+1. Braginsky, M., Yurovsky, D., Marchman, V., & Frank, M. C. (2015). Developmental changes in the relationship between grammar and the lexicon. In D. C. Noelle, R. Dale, A. S. Warlaumont, J. Yoshimi, T. Matlock, C. D. Jennings, & P. P. Maglio (Eds.), *Proceedings of the 37th Annual Meeting of the Cognitive Science Society* (pp. 256--261). Austin, TX: Cognitive Science Society.
+
+1. MacDonald, K., Yurovsky, D., & Frank, M. C. (2015). Referential cues modulate attention and memory during cross-situational learning. In D. C. Noelle, R. Dale, A. S. Warlaumont, J. Yoshimi, T. Matlock, C. D. Jennings, & P. P. Maglio (Eds.), *Proceedings of the 37th Annual Meeting of the Cognitive Science Society* (pp. 1452--1457). Austin, TX: Cognitive Science Society.
+	
+1. Schneider, R. M., Yurovsky, D., & Frank, M. C. (2015). Large-scale investigations of variability in children's first words. In D. C. Noelle, R. Dale, A. S. Warlaumont, J. Yoshimi, T. Matlock, C. D. Jennings, & P. P. Maglio (Eds.), *Proceedings of the 37th Annual Meeting of the Cognitive Science Society* (pp. 2210--2115). Austin, TX: Cognitive Science Society.
+
+1. Yurovsky, D., Wagner, K., Barner, D., & Frank, M. C. (2015). Signatures of domain-general categorization mechanisms in color word learning. In D. C. Noelle, R. Dale, A. S. Warlaumont, J. Yoshimi, T. Matlock, C. D. Jennings, & P. P. Maglio (Eds.), *Proceedings of the 37th Annual Meeting of the Cognitive Science Society* (pp. 2775--2780). Austin, TX: Cognitive Science Society.
+
+1. Zhang, Y, Yurovsky, D., & Yu, C. (2015). Statistical Word Learning is a Continuous Process: Evidence from the Human Simulation Paradigm. In D. C. Noelle, R. Dale, A. S. Warlaumont, J. Yoshimi, T. Matlock, C. D. Jennings, & P. P. Maglio (Eds.), *Proceedings of the 37th Annual Meeting of the Cognitive Science Society* (pp. 2793--2798). Austin, TX: Cognitive Science Society.
+
+1. Yurovsky, D., & Frank, M. C. (2014). Beyond naïve cue combination: Salience and social cues in early word learning. In P. Bello, M. Guarini, M. McShane, & B. Scassellati (Eds.), *Proceedings of the 36th Annual Conference of the Cognitive Science Society* (pp. 1826-1831). Austin, TX: Cognitive Science Society.
+
+1. Yurovsky, D., Wade, A.  & Frank, M. C. (2013). Online processing of speech and social information in early word learning. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), *Proceedings of the 35th Annual Conference of the Cognitive Science Society* (pp. 1641-1646). Austin, TX: Cognitive Science Society.
+
+1. Frank, M. C., Simmons, K.,Yurovsky, D.,  & Pusiol, G. (2013). Developmental and postural changes in children's visual access to faces. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), *Proceedings of the 35th Annual Conference of the Cognitive Science Society* (pp. 454-459). Austin, TX: Cognitive Science Society.
+
+1. Yurovsky, D., Bion, R. A. H., Smith, L. B., & Fernald, A. (2012). Mutual exclusivity and vocabulary structure. In N. Miyake, D. Peebles, & R. P. Cooper (Eds.), *Proceedings of the 34th Annual Conference of the Cognitive Science Society* (pp. 1197-1202). Austin, TX: Cognitive Science Society.
+
+1. Yurovsky, D., Hidaka, S., & Wu, R. (2012). Quantitative linking hypotheses for infant eye movements. In N. Miyake, D. Peebles, & R. P. Cooper (Eds.), *Proceedings of the 34th Annual Conference of the Cognitive Science Society* (pp. 1203-1208). Austin, TX: Cognitive Science Society.
+
+1. Yurovsky, D., Smith, L. B., & Yu, C. (2012). Does statistical word learning scale? It's a matter of perspective. In N. Miyake, D. Peebles, & R. P. Cooper (Eds.), *Proceedings of the 34th Annual Conference of the Cognitive Science Society* (pp. 1209-1213). Austin, TX: Cognitive Science Society.
+
+1. Yurovsky, D., Wu., R., Yu., C., Kirkham, N. Z., & Smith, L. B. (2011). Model selection for eye movements: Assessing the role of attentional cues in infant learning. In E. J. Davelaar (Ed.), *Connectionist models of neurocognition and emergent behavior: From theory to applications* (pp. 58-75). Singapore: World Scientific. 
+
+1. Yurovsky, D., Fricker, D., Yu, C., & Smith, L. B. (2010). The active role of partial knowledge in cross-situational word learning. In S. Ohlsson & R. Catrambone (Eds.), *Proceedings of the 32nd Annual Conference of the Cognitive Science Society* (pp. 2609-2614). Austin, TX: Cognitive Science Society.
+
+1. Yurovsky, D., Hidaka, S., Yu, C., & Smith, L. B. (2010). Linking learning to looking: Habituation and association in infant statistical language learning. In S. Ohlsson & R. Catrambone (Eds.), *Proceedings of the 32nd Annual Conference of the Cognitive Science Society* (pp. 1589-1594). Austin, TX: Cognitive Science Society.
+
+1. Yurovsky, D., Yu, C., & Smith, L. B. (2010). Statistical speech segmentation and word learning in parallel. In K. Franich, K. M. Iserman, & L. L. Keil (Eds.), *Proceedings of the 34th Annual Boston University Conference on Language Development* (pp. 491-502). Somerville, MA: Cascadilla Press.
+
+1. Yurovsky, D. & Yu, C. (2008). Mutual exclusivity in cross-situational statistical learning. In B. C. Love, K. McRae, & V.M. Sloutsky (Eds.), *Proceedings of the 30th Annual Conference of the Cognitive Science Society* (pp. 715-720). Austin, TX: Cognitive Science Society.
+
+1. Gross, R., Li, Y., Sweeney, L., Jiang, X., Xu, W., & Yurovsky, D. (2007). Robust Hand Geometry Measurements for Person Identification Using Active Appearance Models. *IEEE Conference on Biometrics*, Washington, DC.
+
+1. Jiang, X., Xu, W., Li, Y., Sweeney, L., Gross, R., & Yurovsky, D. (2007). New Direction on Contact-free Hand Recognition. *IEEE International Conference on Image Processing*, San Antonio, Texas.
+
+1. Jiang, X., Xu, W., Li, Y., Sweeney, L., Gross, R., & Yurovsky, D. (2007). 2D image database indexing: A coefficient-based approach. *IEEE International Conference on Multimedia and Expo*, Beijing, China.
+
+# Invited Presentations (Seleted)
+
+* Midwestern Psychological Association Conference. April 2019
+
+* UIUC Language Processing Brownbag. November 2018
+
+* Psychonomic Society Invited Symposium, "Using big data to discover principles of cognition". November 2017
+
+* University of Iowa, Delta Center Colloquium. November 2017
+
+* Cognitive Science Society Preconference Workshop, "Emergent meaning". August 2016
+
+* UC Berkeley Developmental Psychology Colloquium. November 2015
+
+* UC Santa Cruz Developmental Psychology Colloquium. October 2015
+
+* CMU Psychology Department 100th Year Anniversary. October 2015
+
+* UC Davis Center for Mind and Brain Monday Seminar. April 2014
+
+* CMU Developmental Psychology Brownbag. March 2014
+
+* UC Boulder Cognitive Lunch. September 2013
+
+* OSU Developmental Psychology Brownbag. September 2012
+
+* University of Edinburgh Language Evolution and Computation Unit Seminar. July 2011
+
+* UofR Brain and Cogntiive Sciences Seminar. November 2011
+
+# Mentorship
+
+## Ph. D. Students
+
+* Claire Bergey -- current graduate student 
+
+* Ashley Leung -- current graduate student
+
+* Benjamin Morris -- current graduate student
+
+## Master's Students
+
+* Joseph Denby -- current graduate student (Computational Social Science)
+
+* Flora Zhang -- current graduate student (Computational Social Science)
+
+## Undergraduate Students
+
+* Alexandra Tunkel -- current honors thesis advisee, PRISM grant winner, Earl Franklin award winner
+
+* Madeline Meyers -- current honors thesis advisee, PRISM grant winner, Earl Franklin award winner
+
+* Shamini Nair -- previous honors thesis advisee, Dean's Fund grant
+
+* Emilia Ruso -- previous honors thesis advisee
+
+# Professional Service
+
+* Editorial Board Membership: Infancy
+
+* Grant reviewing: NSF Review Panel (x4)
+
+* Ad-hoc reviewing: Behavior Research Methods, Child Development, Cognition, Cognitive Psychology, Cognitive Science, Developmental Psychology, Developmental Science, Journal of Experimental Child Psychology, Journal of Experimental Psychology: General, Language, Learning, & Development, Open Mind, Psychological Review, Psychological Science, and others.
+
+* Conference reviewing: Boston University Conference on Language Development, Cognitive Science Conference, International Conference on Development and Learning, Society for Research in Child Development.
+
+* Continuing membership in: Cognitive Science Society, International Society for Infant Studies, Society for Research in Child Development
