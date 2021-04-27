@@ -9,11 +9,11 @@ title: "CV"
 author: Daniel Yurovsky
 
 jobtitle: "Assistant Professor, Department of Psychology"
-address: "Green 201 · University of Chicago · Chicago, IL 60642"
+address: "Baker Hall 335C · Carnegie Mellon University · Pittsburgh, PA 15213"
 fontawesome: yes
-email: yurovsky@uchicago.edu
+email: yurovsky@cmu.edu
 #github: dyurovsky
-phone: "773 834 3381"
+phone: "412 268 6266"
 web: www.danyurovsky.com
 updated: FALSE
 
@@ -26,14 +26,17 @@ urlcolor: blue
 
 # Employment
 
+* Carnegie Mellon University
+
+    + Assistant Professor of Psychology  (2019-present)
+
 * University of Chicago
 
-    + Assistant Professor of Psychology  (2016-present)
+    + Assistant Professor of Psychology  (2016-2019)
 
 * Stanford University 
 
     + Postdoctoral Fellow (2012-2016)
-
 
 # Education
 
@@ -73,13 +76,21 @@ urlcolor: blue
 
 # Publications
 
+## Books
+
+1. Frank, M. C., Braginsky, M., Yurovsky, D., & Marchman, V. A. (2021). *Variability and consistency in early language learning: The Wordbank project*. MIT Press.
+
 ## Journal Articles
 
-1. The ManyBabies Consortium. (accepted). Quantifying sources of variability in infancy research using the infant-directed speech preference. *Advances in Methods and Practices in Psychological Science*.
+1. Zhang, Y., Yurovsky, D., & Yu, C. (accepted). Cross-situational learning from ambiguous egocentric input is a continuous process: Evidence using the human simulation paradigm. *Cognitive Science*.
 
-1. Braginsky, M., Yurovsky, D., Marchman, V. A., Frank, M. C. (in press). Consistency and variability in word learning across languages. *Open Mind*.
+1. Leung, A., Tunkel, A., & Yurovsky, D. (in press). Parents fine-tune their speech to children's vocabulary knowledge. *Psychological Science*.
 
-1. Sanchez, A., Meylan, S. C., Braginsky, M., MacDonald, K., Yurovksy, D., & Frank, M. C. (in press). childes-db: a flexible and reproducible interface to the Child Language Data Exchange System. *Behavior Research Methods*.
+1. The ManyBabies Consortium. (2020). Quantifying sources of variability in infancy research using the infant-directed speech preference. *Advances in Methods and Practices in Psychological Science*, *3*, 24--52.
+
+1. Braginsky, M., Yurovsky, D., Marchman, V. A., Frank, M. C. (2019). Consistency and variability in word learning across languages. *Open Mind*, *3*, 52--67.
+
+1. Sanchez, A., Meylan, S. C., Braginsky, M., MacDonald, K., Yurovksy, D., & Frank, M. C. (2019). childes-db: a flexible and reproducible interface to the Child Language Data Exchange System. *Behavior Research Methods*, *51*, 1928--1941.
 
 1. Yurovsky, D. (2018). A communicative approach to early word learning. *New Ideas in Psychology*, *50*, 73--79. 
 
@@ -110,11 +121,25 @@ urlcolor: blue
 
 ## Conference Proceedings
 
-1. Denby, J., & Yurovsky, D. (in press). Parents' Linguistic Alignment Predicts Children’s Language Development. *Proceedings of the 41st Annual Conference of the Cognitive Science Society*.
+1. Bergey, C., & Marshall, Z., Dedeo, S., & Yurovsky, D. Learning communicative acts in children’s conversations: a Hidden Topic Markov Model analysis of the CHILDES corpus. *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* 
 
-1. Leung, A., Tunkel, A., & Yurovsky, D. (in press). Parents Calibrate Speech to Their Children's Vocabulary Knowledge. *Proceedings of the 41st Annual Conference of the Cognitive Science Society*.
+1. Leung, A.\*, Morris, B. C.\*, & Yurovsky, D. Children know what words other children know. *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* 
 
-1. Morris, B. C., & Yurovsky, D. (in press). Pressure to communicate across knowledge asymmetries leads to pedagogically supportive language input. *Proceedings of the 41st Annual Conference of the Cognitive Science Society*.
+1. Zettersten, M., ..., Yurovsky, D. , et al. (in press). Peekbank: Exploring children's word recognition through an open, large-scale repository for developmental eye-tracking data. 
+
+1. Zhao, Y., & Yurovsky, D. (in press). A common framework for quantifying the learnability of nouns and verbs. *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* 
+
+1. Bergey, C., & Yurovsky, D. (in press). Listeners use descriptive contrast to disambiguate novel referents and make inferences about novel categories. *Experiments in Linguistic Meaning*.
+
+1. Bergey, C.\*, Morris, B. C.\*, & Yurovsky, D. (2020). Children hear more about what is atypical than what is typical. *Proceedings of the 42nd Annual Conference of the Cognitive Science Society* (pp. 501--507).
+
+1. Leung, A., Hawkins, R. D., & Yurovsky, D. (2020). Parents scaffold the formation of conversational pacts with their children. 1022--1028.
+
+1. Denby, J., & Yurovsky, D. (2019). Parents' linguistic alignment predicts children’s language development. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), *Proceedings of the 41st Annual Conference of the Cognitive Science Society* (pp. 1627--1632). Montreal, QB: Cognitive Science Society.
+
+1. Leung, A., Tunkel, A., & Yurovsky, D. (2019). Parents calibrate speech to their children's Vocabulary Knowledge. *Proceedings of the 41st Annual Conference of the Cognitive Science Society*. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), *Proceedings of the 41st Annual Conference of the Cognitive Science Society* (pp. 651--656). Montreal, QB: Cognitive Science Society.
+
+1. Morris, B. C., & Yurovsky, D. (2019). Pressure to communicate across knowledge asymmetries leads to pedagogically supportive language input. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), *Proceedings of the 41st Annual Conference of the Cognitive Science Society* (pp. 2399--2405). Montreal, QB: Cognitive Science Society.
 
 1. Yurovsky, D., Meyers, M., Burke, N., & Goldin-Meadow, S. (2018). Children gesture when speech is slow to come. In T.T. Rogers, M. Rau, X.
 Zhu, & C. W. Kalish (Eds.), *Proceedings of the 40th Annual Conference of the Cognitive Science Society* (pp. 2765--2770). Austin, TX: Cognitive Science Society.
@@ -165,6 +190,10 @@ Zhu, & C. W. Kalish (Eds.), *Proceedings of the 40th Annual Conference of the Co
 
 # Invited Presentations (Seleted)
 
+* CMU Language Technology Institute Colloquium. December 2020.
+
+* Yale Current Works Colloquium. October 2020.
+
 * Midwestern Psychological Association Conference. April 2019
 
 * UIUC Language Processing Brownbag. November 2018
@@ -197,6 +226,10 @@ Zhu, & C. W. Kalish (Eds.), *Proceedings of the 40th Annual Conference of the Co
 
 ## Ph. D. Students
 
+* Megan Waller -- current graduate student
+
+* Yuchen Zhao -- current graduate student
+
 * Claire Bergey -- current graduate student 
 
 * Ashley Leung -- current graduate student
@@ -205,19 +238,19 @@ Zhu, & C. W. Kalish (Eds.), *Proceedings of the 40th Annual Conference of the Co
 
 ## Master's Students
 
-* Joseph Denby -- current graduate student (Computational Social Science)
+* Joseph Denby -- former graduate student (Computational Social Science)
 
-* Flora Zhang -- current graduate student (Computational Social Science)
+* Flora Zhang -- former graduate student (Computational Social Science)
 
 ## Undergraduate Students
 
-* Alexandra Tunkel -- current honors thesis advisee, PRISM grant winner, Earl Franklin award winner
+* Alexandra Tunkel -- former honors thesis advisee, PRISM grant winner, Earl Franklin award winner
 
-* Madeline Meyers -- current honors thesis advisee, PRISM grant winner, Earl Franklin award winner
+* Madeline Meyers -- former honors thesis advisee, PRISM grant winner, Earl Franklin award winner.
 
-* Shamini Nair -- previous honors thesis advisee, Dean's Fund grant
+* Shamini Nair -- former honors thesis advisee, Dean's Fund grant
 
-* Emilia Ruso -- previous honors thesis advisee
+* Emilia Ruso -- former honors thesis advisee
 
 # Professional Service
 
@@ -229,4 +262,4 @@ Zhu, & C. W. Kalish (Eds.), *Proceedings of the 40th Annual Conference of the Co
 
 * Conference reviewing: Boston University Conference on Language Development, Cognitive Science Conference, International Conference on Development and Learning, Society for Research in Child Development.
 
-* Continuing membership in: Cognitive Science Society, International Society for Infant Studies, Society for Research in Child Development
+* Continuing membership in: Association for Psychological Science, Cognitive Development Society, Cognitive Science Society, International Society for Infant Studies, Society for Research in Child Development.
