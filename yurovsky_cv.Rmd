@@ -90,7 +90,7 @@ urlcolor: blue
 
 1. Braginsky, M., Yurovsky, D., Marchman, V. A., Frank, M. C. (2019). Consistency and variability in word learning across languages. *Open Mind*, *3*, 52--67.
 
-1. Sanchez, A., Meylan, S. C., Braginsky, M., MacDonald, K., Yurovksy, D., & Frank, M. C. (2019). childes-db: a flexible and reproducible interface to the Child Language Data Exchange System. *Behavior Research Methods*, *51*, 1928--1941.
+1. Sanchez, A., Meylan, S. C., Braginsky, M., MacDonald, K., Yurovsky, D., & Frank, M. C. (2019). childes-db: a flexible and reproducible interface to the Child Language Data Exchange System. *Behavior Research Methods*, *51*, 1928--1941.
 
 1. Yurovsky, D. (2018). A communicative approach to early word learning. *New Ideas in Psychology*, *50*, 73--79. 
 
@@ -127,7 +127,7 @@ urlcolor: blue
 
 1. Zettersten, M., ..., Yurovsky, D. , et al. (in press). Peekbank: Exploring children's word recognition through an open, large-scale repository for developmental eye-tracking data. 
 
-1. Zhao, Y., & Yurovsky, D. (in press). A common framework for quantifying the learnability of nouns and verbs. *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* 
+1. Zhou, Y., & Yurovsky, D. (in press). A common framework for quantifying the learnability of nouns and verbs. *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* 
 
 1. Bergey, C., & Yurovsky, D. (in press). Listeners use descriptive contrast to disambiguate novel referents and make inferences about novel categories. *Experiments in Linguistic Meaning*.
 
@@ -228,7 +228,7 @@ Zhu, & C. W. Kalish (Eds.), *Proceedings of the 40th Annual Conference of the Co
 
 * Megan Waller -- current graduate student
 
-* Yuchen Zhao -- current graduate student
+* Yuchen Zhou -- current graduate student
 
 * Claire Bergey -- current graduate student 
 
