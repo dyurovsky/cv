@@ -56,7 +56,9 @@ urlcolor: blue
 
 # Grants and Awards
 
-* R01 NICHD 094830, PLAY Project (consultant; PI: K. Adolph). 2018--2023. $18,000
+* NSF EAGER: Language Learning through Machine Theory of Mind. (Co-PI; PI- Y. Bisk). 2021--2023. $300,000.
+
+* R01 NICHD 094830, PLAY Project (consultant; PI: K. Adolph). 2018--2023. $18,000.
 
 * UChicago SSD Curriculum Innovation Award (PI; Co-I S. Goldin-Meadow). 2018--2019. $13,200.
 
@@ -82,9 +84,17 @@ urlcolor: blue
 
 ## Journal Articles
 
-1. Zhang, Y., Yurovsky, D., & Yu, C. (accepted). Cross-situational learning from ambiguous egocentric input is a continuous process: Evidence using the human simulation paradigm. *Cognitive Science*.
+1. Bergey, C. A., & Yurovsky, D. (under review). Using contrastive inferences to learn about new words and categories.
 
-1. Leung, A., Tunkel, A., & Yurovsky, D. (in press). Parents fine-tune their speech to children's vocabulary knowledge. *Psychological Science*.
+1. Morris, B. & Yurovsky, D. (under review). Communicative pressure on caregivers leads to language input that supports children’s word learning. 
+
+1. Bergey, C., & Marshall, Z., Dedeo, S., & Yurovsky, D. (in press). Learning communicative acts in children’s conversations: a Hidden Topic Markov Model analysis of the CHILDES corpus. *Topics in Cognitive Science*.
+
+1. Leung, A., Tunkel, A., & Yurovsky, D. (2021). Parents fine-tune their speech to children's vocabulary knowledge. *Psychological Science*, *32*, 975--984.
+
+1. Klafka, J., & Yurovsky, D. (2021). Characterizing the typical information curves of diverse languages. *Entropy*, *3*, 1300.
+
+1. Zhang, Y., Yurovsky, D., & Yu, C. (2021). Cross-situational learning from ambiguous egocentric input is a continuous process: Evidence using the human simulation paradigm. *Cognitive Science*, *45*, e13010.
 
 1. The ManyBabies Consortium. (2020). Quantifying sources of variability in infancy research using the infant-directed speech preference. *Advances in Methods and Practices in Psychological Science*, *3*, 24--52.
 
@@ -112,8 +122,7 @@ urlcolor: blue
 
 1. Yurovsky, D., Fricker, D., C., Yu, C., &  Smith, L. B. (2014). The role of partial knowledge in statistical word learning. *Psychonomic Bulletin & Review*, *21*, 1--22.
 
-1. Yurovsky, D., Smith, L.B., & Yu, C. (2014). Statistical word learning at scale: The baby's view is better.
-*Developmental Science*, *16*, 959--966.
+1. Yurovsky, D., Smith, L.B., & Yu, C. (2014). Statistical word learning at scale: The baby's view is better. *Developmental Science*, *16*, 959--966.
 
 1. Yurovsky, D., Yu, C., & Smith, L. B. (2013). Competitive processes in cross-situational word learning. *Cognitive Science*, *37*, 891--921.
 
@@ -121,19 +130,19 @@ urlcolor: blue
 
 ## Conference Proceedings
 
-1. Bergey, C., & Marshall, Z., Dedeo, S., & Yurovsky, D. Learning communicative acts in children’s conversations: a Hidden Topic Markov Model analysis of the CHILDES corpus. *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* 
+1. Bergey, C., & Marshall, Z., Dedeo, S., & Yurovsky, D. (2021). Learning communicative acts in children’s conversations: a Hidden Topic Markov Model analysis of the CHILDES corpus. *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* [**Computational Modeling Prize for Language**]
 
-1. Leung, A.\*, Morris, B. C.\*, & Yurovsky, D. Children know what words other children know. *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* 
+1. Leung, A.\*, Morris, B. C.\*, & Yurovsky, D. (2021). Children know what words other children know. *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* 
 
-1. Zettersten, M., ..., Yurovsky, D. , et al. (in press). Peekbank: Exploring children's word recognition through an open, large-scale repository for developmental eye-tracking data. 
+1. Zettersten, M., ..., Yurovsky, D. , et al. (2021). Peekbank: Exploring children's word recognition through an open, large-scale repository for developmental eye-tracking data. *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* 
 
-1. Zhou, Y., & Yurovsky, D. (in press). A common framework for quantifying the learnability of nouns and verbs. *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* 
+1. Zhou, Y., & Yurovsky, D. (2021). A common framework for quantifying the learnability of nouns and verbs. *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* 
 
-1. Bergey, C., & Yurovsky, D. (in press). Listeners use descriptive contrast to disambiguate novel referents and make inferences about novel categories. *Experiments in Linguistic Meaning*.
+1. Bergey, C., & Yurovsky, D. (2021). Listeners use descriptive contrast to disambiguate novel referents and make inferences about novel categories. *Experiments in Linguistic Meaning*.
 
 1. Bergey, C.\*, Morris, B. C.\*, & Yurovsky, D. (2020). Children hear more about what is atypical than what is typical. *Proceedings of the 42nd Annual Conference of the Cognitive Science Society* (pp. 501--507).
 
-1. Leung, A., Hawkins, R. D., & Yurovsky, D. (2020). Parents scaffold the formation of conversational pacts with their children. 1022--1028.
+1. Leung, A., Hawkins, R. D., & Yurovsky, D. (2020). Parents scaffold the formation of conversational pacts with their children. *Proceedings of the 42nd Annual Conference of the Cognitive Science Society* (pp. 1022--1028.)
 
 1. Denby, J., & Yurovsky, D. (2019). Parents' linguistic alignment predicts children’s language development. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), *Proceedings of the 41st Annual Conference of the Cognitive Science Society* (pp. 1627--1632). Montreal, QB: Cognitive Science Society.
 
@@ -224,7 +233,7 @@ Zhu, & C. W. Kalish (Eds.), *Proceedings of the 40th Annual Conference of the Co
 
 # Mentorship
 
-## Ph. D. Students
+## Ph.D. Students
 
 * Megan Waller -- current graduate student
 
