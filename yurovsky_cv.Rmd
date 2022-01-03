@@ -24,19 +24,15 @@ linkcolor: blue
 urlcolor: blue
 ---
 
+Young children learn the meanings of thousands of words by the time they can run down the street. They do this with limited input data and extremely bandwidth-limited learning mechanisms. My research investigates the synergies between input and learning mechanisms that give rise to children's rapid learning. This incredible learning success is a case study from which I am working to develop a general theory of how to support learning in both humans and machines.
+
 # Employment
 
-* Carnegie Mellon University
+* Carnegie Mellon University -- Assistant Professor of Psychology  (2019-present)
 
-    + Assistant Professor of Psychology  (2019-present)
+* University of Chicago -- Assistant Professor of Psychology  (2016-2019)
 
-* University of Chicago
-
-    + Assistant Professor of Psychology  (2016-2019)
-
-* Stanford University 
-
-    + Postdoctoral Fellow (2012-2016)
+* Stanford University -- Postdoctoral Fellow (2012-2016)
 
 # Education
 
