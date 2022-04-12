@@ -126,7 +126,11 @@ I am a cognitive scientist who studies how humans and machines learn from langua
 
 ## Conference Proceedings
 
+1. Kim, J., Singh, S., Yurovsky, D., Fisher, A., & Thiessen, E. (2022). A hierarchical model of attention over time. *Proceedings of the 44th Annual Conference of the Cognitive Science Society*.
+
 1. Ozaki, S., Yurovsky, D., & Levin, L. (2022). How well do LSTM language models learn filler-gap dependencies? *Proceedings of the Society for Computation in Linguistics* 
+
+1. Waller, M., Nozari, N., & Yurovsky, D. (2022). Of mouses and mans: the role of production and feedback in language learning. *Proceedings of the 44th Annual Conference of the Cognitive Science Society*.
 
 1. Bergey, C., & Marshall, Z., Dedeo, S., & Yurovsky, D. (2021). Learning communicative acts in children’s conversations: a Hidden Topic Markov Model analysis of the CHILDES corpus. *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* [**Computational Modeling Prize for Language**]
 
